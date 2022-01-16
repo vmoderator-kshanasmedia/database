@@ -13,7 +13,7 @@ This book is a treatise on the theory of \ref{editoriam references} ethics, very
 
 \section{Uses}
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that <img width="144" alt="kshanas" src="https://user-images.githubusercontent.com/57654450/149592043-c43759fb-d61c-4d66-ab9a-8daa780d7662.png"> it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. \ref{uses01} \ref{uses02}
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that \media{<img width="144" alt="kshanas" src="https://user-images.githubusercontent.com/57654450/149592043-c43759fb-d61c-4d66-ab9a-8daa780d7662.png">|Mera} it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. \ref{uses01} \ref{uses02}
 
 Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\ref{again-uses2}
 
